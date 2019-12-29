@@ -29,8 +29,6 @@ const GoalInput = props => {
           <View style={styles.button}>
           <Button title="ADD" onPress={addGoalHandler} />
           </View>
-          
-          
         </View>
       </View>
     </Modal>
